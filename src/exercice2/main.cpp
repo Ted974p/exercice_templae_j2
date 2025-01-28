@@ -1,11 +1,10 @@
 #include "pch.h"
 #include "main.h"
-
+#include <SFML/Graphics.hpp>
+#include "GameManager.h"
 int main()
 {
-#ifdef _DEBUG
-	_CrtDumpMemoryLeaks();
-#endif
+	GameManager play;
 
 	return 0;
 }
