@@ -1,0 +1,2 @@
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows/debug/lib/zlibd.lib
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows/debug/bin/zlibd1.dll

@@ -1,0 +1,4 @@
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows/lib/zlib.lib
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows/bin/zlib1.dll
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows/include/zconf.h
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows/include/zlib.h

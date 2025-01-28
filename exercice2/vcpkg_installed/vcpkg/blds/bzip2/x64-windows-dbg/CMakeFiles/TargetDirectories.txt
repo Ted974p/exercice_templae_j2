@@ -1,0 +1,6 @@
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-dbg/CMakeFiles/bz2.dir
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-dbg/CMakeFiles/edit_cache.dir
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-dbg/CMakeFiles/rebuild_cache.dir
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-dbg/CMakeFiles/list_install_components.dir
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-dbg/CMakeFiles/install.dir
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-dbg/CMakeFiles/install/local.dir

@@ -1,0 +1,22 @@
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/lib/OpenAL32.lib
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/bin/OpenAL32.dll
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/lib/cmake/OpenAL/OpenALTargets.cmake
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/lib/cmake/OpenAL/OpenALTargets-release.cmake
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/include/AL/al.h
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/include/AL/alc.h
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/include/AL/alext.h
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/include/AL/efx-creative.h
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/include/AL/efx-presets.h
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/include/AL/efx.h
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/lib/pkgconfig/openal.pc
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/lib/cmake/OpenAL/OpenALConfig.cmake
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/share/openal/alsoftrc.sample
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/share/openal/hrtf/Default HRTF.mhr
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/share/openal/presets/3D7.1.ambdec
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/share/openal/presets/hex-quad.ambdec
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/share/openal/presets/hexagon.ambdec
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/share/openal/presets/itu5.1-nocenter.ambdec
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/share/openal/presets/itu5.1.ambdec
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/share/openal/presets/presets.txt
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/share/openal/presets/rectangle.ambdec
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/pkgs/openal-soft_x64-windows/share/openal/presets/square.ambdec

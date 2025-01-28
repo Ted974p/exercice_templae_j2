@@ -1,0 +1,8 @@
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/blds/freetype/x64-windows-rel/CMakeFiles/freetype.dir
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/blds/freetype/x64-windows-rel/CMakeFiles/package.dir
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/blds/freetype/x64-windows-rel/CMakeFiles/package_source.dir
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/blds/freetype/x64-windows-rel/CMakeFiles/edit_cache.dir
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/blds/freetype/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/blds/freetype/x64-windows-rel/CMakeFiles/list_install_components.dir
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/blds/freetype/x64-windows-rel/CMakeFiles/install.dir
+C:/Users/tpanechou/Downloads/tools-main/tools-main/SolutionGenerator/x64/Release/J-2/ide/vs/exercice2/vcpkg_installed/vcpkg/blds/freetype/x64-windows-rel/CMakeFiles/install/local.dir
